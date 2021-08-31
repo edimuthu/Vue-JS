@@ -1,2 +1,2 @@
-# Vue-JS
-VueJS
+# Vuelidate
+VueJS Vuelidate
